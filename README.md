@@ -6,6 +6,7 @@ An implementation of a simple continuous Recurrent Neural Network which produces
 
 <img src="https://render.githubusercontent.com/render/math?math=s(h) = \frac{2}{\pi} arctan (\lambda h)">
 
+![Oscillations example](https://github.com/ptolmachev/ContinuousRNN/blob/main/img/Many_dim_oscillations.pdf)
 
 
 
